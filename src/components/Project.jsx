@@ -33,7 +33,7 @@ const Projects = () => {
                 </a>
                
                 
-                <a  href="https://i.postimg.cc/bvjrCyDW/0-0-0-0-1-Document-Google-Chrome-28-08-2021-09-13-39.png" target="_blank" rel="noopener noreferrer">
+                <a  href="https://drive.google.com/file/d/1NcgNpv6BcunAgagWgEJhVActhN_1mbq3/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                     
                     <button>Demo</button></a>   
             </div>
