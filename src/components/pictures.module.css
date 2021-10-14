@@ -1,0 +1,41 @@
+.outer__div{
+    height: 20vh;
+    background-color: rgb(197, 14, 243);
+    position: relative;
+
+}
+.outer__div > div
+{
+  position: absolute;
+  top:30%;
+  left:41.3%;
+  width:200px;
+  height:200px;
+  border-radius: 200px;
+  border:10px solid azure;
+
+}
+.outer__div img{
+  width:200px;
+  height:200px;
+  border-radius: 200px;
+}
+@media screen and (max-width: 680px) {
+  
+  .outer__div > div
+{
+  position: absolute;
+  top:30%;
+  left:10%;
+  width:40vw;
+  height:40vw;
+  border-radius: 40vw;
+  border:10px solid azure;
+
+}
+.outer__div img{
+  width:40vw;
+  height:40vw;
+  border-radius: 40vw;
+}
+}

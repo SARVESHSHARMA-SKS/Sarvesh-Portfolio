@@ -1,0 +1,21 @@
+outer__div{
+  text-align: center;
+  color:rgb(94, 87, 87);
+  margin: 20px auto;
+  width:87vw;
+  line-height:5vh;
+  font-size:24px;
+  word-wrap: break-word;
+  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Sacramento', cursive;
+ font-weight: 560; */
+ 
+  /* stroke-linecap: butt;
+  word-break: break-all; */
+}
+.outer__div > div{
+  padding: 3vh;
+ 
+
+  
+}

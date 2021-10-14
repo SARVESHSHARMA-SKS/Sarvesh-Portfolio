@@ -1,0 +1,9 @@
+
+   
+.outer__div{
+    width:80vw;
+    margin:100px auto;
+}
+.outer__div > img{
+    width: 100%;
+}
