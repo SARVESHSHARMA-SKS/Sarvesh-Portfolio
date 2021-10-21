@@ -12,7 +12,7 @@ const BasicInfo = () => {
             <div className={styles.contact__info}>
                 <div>
                     <span><i class="fas fa-map-marker" style={{color:"aquamarine"}}></i></span>
-                    <span>Munger,Bihar,India</span>
+                  <span> <img  className={styles.icons} src="https://cdn-icons-png.flaticon.com/512/3179/3179068.png" alt="location"/> </span>  <span>Munger,Bihar,India</span>
                 </div>
                 <div>
                     <span><i class="fas fa-phone" style={{color:"aquamarine"}}></i></span>

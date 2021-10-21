@@ -19,7 +19,7 @@ const Proficiencies = () => {
                     </div>
                
                     <div>
-                        <img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1634216841~hmac=d096d767e8e5692f1f7754823717d54d" alt="react" />
+                        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bLwP4QRs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/z0gf53sy2i9u3cofqt30.png" alt="react" />
                         <p>ReactJS</p>
                     </div>
                 

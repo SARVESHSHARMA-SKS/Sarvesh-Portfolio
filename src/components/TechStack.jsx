@@ -15,7 +15,7 @@ const TechStack = () => {
                     <p>MongoDB</p>
                 </div>
                 <div>
-                    <img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1634216841~hmac=d096d767e8e5692f1f7754823717d54d" alt="react" />
+                    <img src={`/logo192.png`} alt="react" />
                     <p>ReactJS</p>
                 </div>
                 <div>
@@ -27,12 +27,12 @@ const TechStack = () => {
                     <p>Aws</p>
                 </div>
                 <div>
-                    <img src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="aws" />
+                    <img src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="HTML" />
                     <p>HTML</p>
         
                 </div>
                 <div>
-                    <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="aws" />
+                    <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS" />
                     <p>CSS</p>
                 </div>
                 <div>

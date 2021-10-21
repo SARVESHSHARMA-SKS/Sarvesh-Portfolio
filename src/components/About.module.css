@@ -7,11 +7,7 @@ outer__div{
   font-size:24px;
   word-wrap: break-word;
   font-family: 'Roboto', sans-serif;
-  /* font-family: 'Sacramento', cursive;
- font-weight: 560; */
- 
-  /* stroke-linecap: butt;
-  word-break: break-all; */
+
 }
 .outer__div > div{
   padding: 3vh;
