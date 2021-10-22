@@ -14,11 +14,11 @@ const Projects = () => {
                 <h3>Clone of MakeMyTrip</h3>
                     <p>MakeMyTrip is an Indian online travel company.
                          <br/>
-                        TECHSTACK: React.js|Node.js|Express|MongoDb|CSS|JAVASCRIPT
+                        TECHSTACK: React.js | Node.js | Express | MongoDB | CSS | JAVASCRIPT
                         <br/>
                         Collaborative Project | 4-member team | Project
                          <br/>
-                        Duration = 5 Days
+                        Duration : 5 Days
                     </p>
                 <a href="https://github.com/nitish14920/MakeMyTrip" target="_blank" rel="noopener noreferrer" >
                   <button>Github</button>
@@ -45,7 +45,7 @@ Tech Stack: HTML | CSS | Javascript | Node |
                           <br/>
                         Collaborative Project | 4-member team | Project
                           <br/>
-   Duration = 2 Weeks
+   Duration : 2 Weeks
                 </p>
               
                <a href="https://blooming-bastion-29120.herokuapp.com/pages/index.ejs" target="_blank" rel="noopener noreferrer">
