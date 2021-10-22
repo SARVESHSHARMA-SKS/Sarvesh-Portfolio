@@ -12,7 +12,14 @@ const Projects = () => {
             <div>
                 <img src="https://i.postimg.cc/rpwMHBmq/landingpagesst-1.png"  alt="makemytrip"/>
                 <h3>Clone of MakeMyTrip</h3>
-                <p>MakeMyTrip is an Indian online travel company founded in 2000.Headquartered in Gurugram, Haryana, the company provides online travel services including flight tickets, domestic and international holiday packages, hotel reservations, rail, and bus tickets</p>
+                    <p>MakeMyTrip is an Indian online travel company.
+                         <br/>
+                        TECHSTACK: React.js|Node.js|Express|MongoDb|CSS|JAVASCRIPT
+                        <br/>
+                        Collaborative Project | 4-member team | Project
+                         <br/>
+                        Duration = 5 Days
+                    </p>
                 <a href="https://github.com/nitish14920/MakeMyTrip" target="_blank" rel="noopener noreferrer" >
                   <button>Github</button>
                 </a>
@@ -27,10 +34,21 @@ const Projects = () => {
             <div>
                 <img src="https://i.postimg.cc/bvjrCyDW/0-0-0-0-1-Document-Google-Chrome-28-08-2021-09-13-39.png"  alt="Couch"/>
                 <h3>Clone of InternShala</h3>
-                <p>Internshala is an internship and online training platform, based in Gurgaon, India.Founded by Sarvesh Agrawal, an IIT Madras alumnus, in 2011, the website helps students find internships with organisations in India</p>
-
+                    <p>
+                        Intershala Clone
+                        <br/>
+Internshala is an internship listing and online
+                        training platform.
+                          <br/>
+Tech Stack: HTML | CSS | Javascript | Node |
+                        MongoDB|MySql|DOM|
+                          <br/>
+                        Collaborative Project | 4-member team | Project
+                          <br/>
+   Duration = 2 Weeks
+                </p>
               
-               <a href="https://github.com/SrikanthReddyBV/Internshala" target="_blank" rel="noopener noreferrer">
+               <a href="https://blooming-bastion-29120.herokuapp.com/pages/index.ejs" target="_blank" rel="noopener noreferrer">
                 
               <button>Github</button>
                 </a>
