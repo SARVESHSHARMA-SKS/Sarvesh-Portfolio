@@ -2,7 +2,7 @@ import React from 'react'
 import styles from "./BasicInfo.module.css"
 const BasicInfo = () => {
     const handle=()=>{
-        window.open("https://drive.google.com/file/d/1-Mz6lE_F6N6jjkxDTatPEoTATz8vpsoP/view?usp=sharing")
+        window.open("https://drive.google.com/file/d/1N15QIJuUdjj52tjowsAC_m_BnRc8CDwI/view?usp=sharing")
     }
     return (
         <div className={styles.outer__div}>

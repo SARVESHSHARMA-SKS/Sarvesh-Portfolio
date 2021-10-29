@@ -15,7 +15,15 @@ const Projects = () => {
                     <p>
                         <p style={{ textAlign: "center" }}> MakeMyTrip is an Indian online travel company.</p>
                         
-                        <p style={{ textAlign: "justify" }}> We have implemented the search on the basis of stoppage, flight company, location. </p>
+                        <p style={{ textAlign: "justify" }}>
+                            <p style={{fontWeight:"bold"}}>Features:</p>
+                            <ul>
+                                
+                                <li>Serching on the basis of location</li>
+                                <li> Filtering Features on the basis of stoppage, company, location </li>
+                                <li>Sorting function according to flight timmings</li>
+                            </ul>
+                        </p>
                         
                          Tech Stack: React.js | Node.js | Express | MongoDB | CSS | JAVASCRIPT
                         <br/>
@@ -42,14 +50,22 @@ const Projects = () => {
                         training platform.
                         </p>
         
-                       <p style={{textAlign:"justify"}}>  We have added location, domain-based filtering and internship searching feature on Internshala Clone Website.</p>
+                        <p style={{ textAlign: "justify" }}>
+                            <ul>
+<p style={{fontWeight:"bold"}}>Features:</p>
+<li>Location and domain-based filtering</li>
+<li>Domain-based internship searching</li>
+<li>Sorting function on the frontend to sort according
+to city.</li>
+
+                        </ul></p>
                         
 Tech Stack: HTML | CSS | Javascript | Node |
                         MongoDB| MySql | DOM |
                           <br/>
-                        Collaborative Project | 4-member team | Project
+ Collaborative Project | 4-member team | Project Duration : 2 Weeks
                           <br/>
-   Duration : 2 Weeks
+
                 </p>
               
                <a href="https://blooming-bastion-29120.herokuapp.com/pages/index.ejs" target="_blank" rel="noopener noreferrer">
