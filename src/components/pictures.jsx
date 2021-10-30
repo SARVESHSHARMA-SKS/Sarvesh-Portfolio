@@ -6,7 +6,7 @@ const Pictures = () => {
         <div className={styles.outer__div}>
         
           <div>
-              <img src="https://i.postimg.cc/KcnyvGC0/ME.jpg" alt="prop"/>
+              <img src="https://i.postimg.cc/XvYfjrRd/3206.jpg" alt="prop"/>
           </div>
         </div>
     )

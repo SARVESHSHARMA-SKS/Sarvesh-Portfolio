@@ -27,9 +27,9 @@ const Projects = () => {
                         
                          Tech Stack: React.js | Node.js | Express | MongoDB | CSS | JAVASCRIPT
                         <br/>
-                        Collaborative Project | 4-member team | Project
+                        Collaborative Project | 4-member team 
                          <br/>
-                        Duration : 5 Days
+                         Project Duration : 5 Days
                     </p>
                 <a href="https://github.com/nitish14920/MakeMyTrip" target="_blank" rel="noopener noreferrer" >
                   <button>Github</button>
@@ -63,9 +63,9 @@ to city.</li>
 Tech Stack: HTML | CSS | Javascript | Node |
                         MongoDB| MySql | DOM |
                           <br/>
- Collaborative Project | 4-member team | Project Duration : 2 Weeks
+ Collaborative Project | 4-member team 
                           <br/>
-
+                 Project Duration : 2 Weeks
                 </p>
               
                <a href="https://blooming-bastion-29120.herokuapp.com/pages/index.ejs" target="_blank" rel="noopener noreferrer">
