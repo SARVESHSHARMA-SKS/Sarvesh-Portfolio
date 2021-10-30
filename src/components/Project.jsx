@@ -16,7 +16,7 @@ const Projects = () => {
                         <p style={{ textAlign: "center" }}> MakeMyTrip is an Indian online travel company.</p>
                         
                         <p style={{ textAlign: "justify" }}>
-                            <p style={{fontWeight:"bold"}}>  Features:</p>
+                            <p style={{fontWeight:"bold"}}>  Features: </p>
                             <ul>
                                 
                                 <li>Serching on the basis of location</li>
