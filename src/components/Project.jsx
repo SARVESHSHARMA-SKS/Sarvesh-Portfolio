@@ -51,8 +51,9 @@ const Projects = () => {
                         </p>
         
                         <p style={{ textAlign: "justify" }}>
-                            <ul>
-<p style={{fontWeight:"bold"}}>Features:</p>
+                           
+                            <p style={{ fontWeight: "bold" }}>Features:</p>
+                             <ul>
 <li>Location and domain-based filtering</li>
 <li>Domain-based internship searching</li>
 <li>Sorting function on the frontend to sort according
