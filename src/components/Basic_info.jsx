@@ -8,8 +8,9 @@ const BasicInfo = () => {
         <div className={styles.outer__div}>
             <h1>SARVESH KUMAR SHARMA</h1>
             <h2>FULL STACK WEB DEVELOPER</h2>
-            <button onClick={handle}>Resume</button>
+            
             <h1>CONTACT ME</h1>
+            <button onClick={handle}>Resume</button>
             <div className={styles.contact__info}>
                 <div>
                     <span><i class="fas fa-map-marker" style={{color:"aquamarine"}}></i></span>
