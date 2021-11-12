@@ -7,7 +7,7 @@ const BasicInfo = () => {
     return (
         <div className={styles.outer__div}>
             <h1>SARVESH KUMAR SHARMA</h1>
-            <h2>FULL STACK  WEB DEVELOPER</h2>
+            <h2>FULL STACK Web DEVELOPER</h2>
             <button onClick={handle}>Resume</button>
             <div className={styles.contact__info}>
                 <div>
