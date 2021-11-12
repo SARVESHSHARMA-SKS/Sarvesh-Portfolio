@@ -5,7 +5,7 @@ import About from "./components/About";
 import Pictures from "./components/pictures";
 import Projects from "./components/Project";
 import TechStack from "./components/TechStack";
-import Proficiencies from "./components/Proficiencies";
+// import Proficiencies from "./components/Proficiencies";
 import GitStatus from "./components/GitStatus"
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <About />
       <TechStack />
       <Projects />
-      <Proficiencies />
+      {/* <Proficiencies /> */}
       <GitStatus/>
       <br/>
      
