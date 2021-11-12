@@ -14,7 +14,7 @@
     text-align: center;
     padding: 2%;
     margin: 1vh;
-    box-shadow: 0 0 9px 2px grey;
+     box-shadow: 0 0 9px 2px grey; 
     border-radius: 10px;
    
     
@@ -28,14 +28,14 @@
     margin: 1vh;
     border: 1px solid black;
     cursor: pointer;
-    box-shadow: 0px 0px 3px 1px rgb(51, 49, 49);
+     box-shadow: 0px 0px 3px 1px rgb(51, 49, 49); 
     font-size: 15px;
     outline:none
 }
 .outer__div img{
    width:100%;
    border-radius: 10px;
-   box-shadow: 0 0 9px 2px rgb(241, 235, 235);
+   box-shadow: 0 0 9px 2px rgb(241, 235, 235); 
    height:30vh;
    
    
@@ -59,14 +59,14 @@ span{
         align-items: center;
         flex-direction: column;
         flex-wrap: wrap;
-        /* border: 1px solid black; */
+        border: 1px solid black; 
         width: 70vw;
         margin: 10px auto;
     
     }
     .outer__div > div{
         width:60vw;
-        /* border:1px solid black; */
+       border:1px solid black; 
         text-align: center;
         padding: 3%;
     }
@@ -89,7 +89,7 @@ span{
         margin: 1vh;
         border: 1px solid black;
         cursor: pointer;
-        box-shadow: 0px 0px 3px 1px rgb(51, 49, 49);
+        box-shadow: 0px 0px 3px 1px rgb(51, 49, 49); 
         font-size: 3vw;
         outline:none
     }
