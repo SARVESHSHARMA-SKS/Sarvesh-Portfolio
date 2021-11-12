@@ -20,7 +20,7 @@ const Projects = () => {
                             <ul>
                                 
                                 <li>Serching on the basis of location</li>
-                                <li> Filtering Features on the basis of stoppage, company, location </li>
+                                <li> Filtering Features on the basis of stoppage and  location </li>
                                 <li>Sorting function according to flight timmings</li>
                             </ul>
                         </p>
