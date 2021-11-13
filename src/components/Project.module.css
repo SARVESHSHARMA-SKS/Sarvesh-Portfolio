@@ -26,7 +26,7 @@
     min-height:6vh;
     background-color: white;
     margin: 1vh;
-    border: 1px solid black;
+    
     cursor: pointer;
      /* box-shadow: 0px 0px 3px 1px rgb(51, 49, 49);  */
     font-size: 15px;
@@ -90,7 +90,7 @@ span{
         margin: 1vh;
         border: 1px solid black;
         cursor: pointer;
-        border:1px solid black;
+       
         /* box-shadow: 0px 0px 3px 1px rgb(51, 49, 49);  */
         font-size: 3vw;
         outline:none
