@@ -6,7 +6,7 @@
     width: 80vw;
     margin: 10px auto;
     min-height: 90vh;
-
+  border:1px solid black;
 }
 .outer__div > div{
     width:30vw;
