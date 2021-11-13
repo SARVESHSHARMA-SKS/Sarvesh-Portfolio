@@ -1,15 +1,13 @@
 import React from 'react'
 import styles from "./BasicInfo.module.css"
-const BasicInfo = () => {
-    const handle=()=>{
-        window.open("https://drive.google.com/drive/folders/1rxbO4m_xu3o9xuUSZCqHp55x8eg8qGTk?usp=sharing")
-    }
+const Contact = () => {
+    // const handle=()=>{
+    //     window.open("https://drive.google.com/drive/folders/1rxbO4m_xu3o9xuUSZCqHp55x8eg8qGTk?usp=sharing")
+    // }
     return (
-        <div className={styles.outer__div}>
-            <h1>SARVESH KUMAR SHARMA</h1>
-            <h2>FULL STACK WEB DEVELOPER</h2>
-            <button onClick={handle}>Resume</button>
-            {/* <h1>CONTACT ME</h1> */}
+        <div className={styles.contact}>
+        
+            <h1>CONTACT ME</h1>
             
             <div className={styles.contact__info}>
                 <div>
@@ -36,10 +34,10 @@ const BasicInfo = () => {
                     <img src="https://sudhirportfolio.netlify.app/assets/img/Social/github.png" alt="github"/>
                 </a>
             </div>
-            <hr/>
+            {/* <hr/> */}
             
         </div>
     )
 }
 
-export default BasicInfo;
+export default Contact;

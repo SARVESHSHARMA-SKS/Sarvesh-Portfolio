@@ -6,7 +6,8 @@
     width: 60vw;
     margin: 10px auto;
     padding: 3vh;
-    font-family:'sans-serif';
+    /* font-family:'sans-serif'; */
+    font-family: 'Roboto', sans-serif;
     
 }
 .tech__stack img{
@@ -21,8 +22,10 @@
     padding: 2vh;
     margin: 2vh;
     text-align: center;
+    /* font-family:'sans-serif'; */
+    font-family: 'Roboto', sans-serif;
 
-    box-shadow: 0 0 8px 1px grey;
+    /* box-shadow: 0 0 8px 1px grey; */
 }
 @media screen and (max-width: 680px) {
     .tech__stack{
@@ -32,7 +35,9 @@
         flex-wrap: wrap;
         width: 70vw;
         margin: 10px auto;
+        /* font-family:'sans-serif'; */
         /* border: 1px solid black; */
+        font-family: 'Roboto', sans-serif;
     }
     .tech__stack >div{
         /* border: 1px solid green; */

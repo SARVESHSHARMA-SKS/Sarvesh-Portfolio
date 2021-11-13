@@ -3,7 +3,7 @@ import styles from "./TechStack.module.css"
 const TechStack = () => {
     return (
         <div>
-            <h2 style={{textAlign:"center",color:"#5E5757"}}>TECH STACK</h2>
+            <h1 style={{textAlign:"center",color:"#5E5757"}}>TECH STACK</h1>
             <div className={styles.tech__stack}>
                 <div>
                     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"  alt="nodejs" />
