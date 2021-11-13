@@ -66,7 +66,7 @@ span{
     }
     .outer__div > div{
         width:60vw;
-       border:1px solid black; 
+       /* border:1px solid black;  */
         text-align: center;
         padding: 3%;
     }
