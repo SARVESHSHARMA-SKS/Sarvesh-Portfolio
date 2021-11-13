@@ -59,7 +59,7 @@ span{
         align-items: center;
         flex-direction: column;
         flex-wrap: wrap;
-        border: 1px solid black; 
+        /* border: 1px solid black;  */
         width: 70vw;
         margin: 10px auto;
     
