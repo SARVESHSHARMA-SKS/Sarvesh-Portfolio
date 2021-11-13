@@ -25,12 +25,13 @@
 }
 .linkedin__class
 {
-    width: 15vw;
+    width: 8vw;
     margin: auto;
     
     display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+    /* border:1px solid black; */
+    justify-content: flex-start;
+    /* flex-wrap: wrap; */ 
 
 
 }
@@ -65,11 +66,11 @@
 }
 .ricons
 {
-width:2.5vw;
-height:3vh;
- @media only screen and (min-width:600px) {
-   width:4vw;
+width:18px;
+height:20px;
+ /* @media only screen and (max-width:600px) {
+   width:15vw;
    height:3vh; 
 
-} 
+}  */
 }

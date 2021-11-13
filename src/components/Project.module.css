@@ -6,6 +6,7 @@
     width: 80vw;
     margin: 10px auto;
     min-height: 90vh;
+    
   
 }
 .outer__div > div{
@@ -16,7 +17,7 @@
     margin: 1vh;
      /* box-shadow: 0 0 9px 2px grey;  */
     border-radius: 10px;
-   
+   border:1px solid black;
    
 }
 .outer__div > div button{
@@ -59,7 +60,7 @@ span{
         align-items: center;
         flex-direction: column;
         flex-wrap: wrap;
-      border: 1px solid black;  
+      /* border: 1px solid black;   */
         width: 70vw;
         margin: 10px auto;
     

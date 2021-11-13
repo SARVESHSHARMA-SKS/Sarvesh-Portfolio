@@ -1,5 +1,7 @@
 import React from 'react'
 import styles from "./BasicInfo.module.css"
+import { SiLinkedin } from "react-icons/si";
+import { FaGithub } from "react-icons/fa";
 const Contact = () => {
     // const handle=()=>{
     //     window.open("https://drive.google.com/drive/folders/1rxbO4m_xu3o9xuUSZCqHp55x8eg8qGTk?usp=sharing")
@@ -28,10 +30,12 @@ const Contact = () => {
             </div>
             <div className={styles.linkedin__class}>
                 <a href="https://www.linkedin.com/in/sarveshkumarsharma-sks/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://sudhirportfolio.netlify.app/assets/img/Social/facebook.png" alt="likedin"/>
+                   <SiLinkedin style={{width:"4vw",height:"4.5vh"}} />
+                    {/* <img src="https://sudhirportfolio.netlify.app/assets/img/Social/facebook.png" alt="likedin"/> */}
                 </a>
                 <a href="https://github.com/SARVESHSHARMA-SKS" target="_blank" rel="noopener noreferrer">
-                    <img src="https://sudhirportfolio.netlify.app/assets/img/Social/github.png" alt="github"/>
+                    <FaGithub style={{width:"4vw",height:"4.5vh"}} />
+                    {/* <img src="https://sudhirportfolio.netlify.app/assets/img/Social/github.png" alt="github"/> */}
                 </a>
             </div>
             {/* <hr/> */}
