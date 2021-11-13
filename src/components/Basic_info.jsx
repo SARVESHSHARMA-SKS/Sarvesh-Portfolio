@@ -15,16 +15,16 @@ const BasicInfo = () => {
                 <div>
                     <span><i class="fas fa-map-marker" style={{color:"aquamarine"}}></i></span>
                     <span> <img className={styles.icons} src="https://cdn-icons-png.flaticon.com/512/3179/3179068.png" alt="location" />
-                        <span> <img style={{ width: "3.2vw", height: "3vh" }} src="https://cdn-icons-png.flaticon.com/512/3179/3179068.png" alt="img" /></span>
+                        <span> <img className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/3179/3179068.png" alt="img" /></span>
                     </span>  <span>Munger,Bihar,India</span>
                 </div>
                 <div>
                     <span><i class="fas fa-phone" style={{color:"aquamarine"}}></i></span>
-                       <span> <img style={{width:"3.2vw",height:"3vh"}} src="https://cdn-icons-png.flaticon.com/512/15/15874.png" alt ="img"/></span> <span>+91 9113763003</span>
+                       <span> <img   className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/15/15874.png" alt ="img"/></span> <span>+91 9113763003</span>
                 </div>
                 <div>
                     <span><i class="fas fa-envelope" style={{color:"aquamarine"}}></i></span>
-                    <span><img style={{width:"3.2vw",height:"3vh"}} src="https://cdn-icons-png.flaticon.com/512/1782/1782765.png" alt ="img"/></span> <span>sssarvesh1999@gmail.com</span>
+                    <span><img className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/1782/1782765.png" alt ="img"/></span> <span>sssarvesh1999@gmail.com</span>
                 </div>
                
             </div>
