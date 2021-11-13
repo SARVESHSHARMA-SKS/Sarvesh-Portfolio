@@ -17,7 +17,7 @@
      /* box-shadow: 0 0 9px 2px grey;  */
     border-radius: 10px;
    
-    
+     border:1px solid black; 
 }
 .outer__div > div button{
     padding: 1vh;
@@ -69,6 +69,7 @@ span{
         border:1px solid black;  
         text-align: center;
         padding: 3%;
+         border:1px solid black;
     }
     .outer__div img{
         width:55vw;
