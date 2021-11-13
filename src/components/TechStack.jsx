@@ -19,7 +19,7 @@ const TechStack = () => {
             <h1 style={{textAlign:"center",color:"#5E5757"}}>TECH STACK</h1>
             <div className={styles.tech__stack}>
                 <div >
-                    <FaNodeJs className={styles.sicon}/>
+                    <FaNodeJs style={{width:"10vw",height:"10vh"}}/>
 
                     {/* <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"  alt="nodejs" /> */}
                     <p>NodeJS</p> 

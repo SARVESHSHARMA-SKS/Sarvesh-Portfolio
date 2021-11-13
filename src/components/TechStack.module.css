@@ -51,6 +51,10 @@
     {
         width:10vw;
         height:10vh;
+        @media screen and only (max-width:600px){
+            width:20vw;
+            height:20vh;
+        }
     } 
     
 }

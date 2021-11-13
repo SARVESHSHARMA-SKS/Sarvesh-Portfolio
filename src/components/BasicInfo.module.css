@@ -30,8 +30,11 @@
     
     display: flex;
     /* border:1px solid black; */
-    justify-content: flex-start;
-    /* flex-wrap: wrap; */ 
+     justify-content: space-evenly; 
+     flex-wrap: wrap; 
+     @media screen only screen and (max-width:600px){
+         justify-content: space-between; 
+     } 
 
 
 }
