@@ -24,7 +24,7 @@ const BasicInfo = () => {
                 </div>
                 <div>
                     <span><i class="fas fa-phone" style={{color:"aquamarine"}}></i></span>
-                       <span> <img   className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/15/15874.png" alt ="img"/></span> <span>+91 9113763003</span>
+                       <span> <img   className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/15/15874.png" alt ="img"/></span> <span>+919113763003</span>
                 </div>
                 <div>
                     <span><i class="fas fa-envelope" style={{color:"aquamarine"}}></i></span>
