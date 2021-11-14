@@ -28,16 +28,16 @@ const BasicInfo = () => {
                 </div>
                 <div>
                     <span><i class="fas fa-envelope" style={{color:"aquamarine"}}></i></span>
-                    <span><img className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/1782/1782765.png" alt ="img"/></span> <span>sssarvesh1999@gmail.com</span>
+                    <span><img className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/1782/1782765.png" alt ="img"/>sssarvesh1999@gmail.com</span>
                 </div>
                
             </div>
             <div className={styles.linkedin__class}>
                 <a href="https://www.linkedin.com/in/sarveshkumarsharma-sks/" target="_blank" rel="noopener noreferrer">
-                    <SiLinkedin style={{width:"4vw",height:"4.5vh"}} />
+                    <SiLinkedin className="lgicons" />
                 </a>
                 <a href="https://github.com/SARVESHSHARMA-SKS" target="_blank" rel="noopener noreferrer">
-              <FaGithub style={{width:"4vw",height:"4.5vh"}} />
+              <FaGithub className="lgicons" />
 
                      {/* <img src="https://sudhirportfolio.netlify.app/assets/img/Social/github.png" alt="github"/>  */}
                 </a>

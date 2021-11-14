@@ -79,14 +79,14 @@ height:20px;
 
 }  */
 }
- @media only screen and (max-width:600px) {
+ @media only screen and (max-width:300px) {
      .ricons{
    width:3.8vw;
    height:3.2vh; 
      }
 
 }  
-@media screen and (max-width:600px){
+@media screen and (max-width:300px){
     .contact__info
 {
     width:65vw;
@@ -100,4 +100,15 @@ height:20px;
     flex-wrap: nowrap;
 
 }
+}
+.lgicons{
+    width:4vw;
+    height:4.5vh;
+}
+@media screen and (max-width:300px){
+ .lgicons{
+    width:8vw;
+    height:8.5vh;
+}   
+    
 }
