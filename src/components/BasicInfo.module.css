@@ -79,3 +79,25 @@ height:20px;
 
 }  */
 }
+ @media only screen and (max-width:600px) {
+     .ricons{
+   width:3.8vw;
+   height:3.2vh; 
+     }
+
+}  
+@media screen and (max-width:600px){
+    .contact__info
+{
+    width:20vw;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    margin:3vh auto;
+    flex-wrap: nowrap;
+
+}
+}

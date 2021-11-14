@@ -16,7 +16,7 @@ const BasicInfo = () => {
             {/* <h1>CONTACT ME</h1> */}
             
             <div className={styles.contact__info}>
-                <div>
+                <div className={styles.info}>
                     <span><i class="fas fa-map-marker" style={{color:"aquamarine"}}></i></span>
                     <span> <img className={styles.icons} src="https://cdn-icons-png.flaticon.com/512/3179/3179068.png" alt="location" />
                         <span> <img className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/3179/3179068.png" alt="img" /></span>
