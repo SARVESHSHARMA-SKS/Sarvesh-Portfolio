@@ -28,7 +28,7 @@ const BasicInfo = () => {
                 </div>
                 <div>
                     <span><i class="fas fa-envelope" style={{color:"aquamarine"}}></i></span>
-                    <span><img className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/1782/1782765.png" alt ="img"/>sssarvesh1999@gmail.com</span>
+                    <span><img className={styles.ricons} src="https://cdn-icons-png.flaticon.com/512/1782/1782765.png" alt ="img"/> &nbsp; sssarvesh1999@gmail.com</span>
                 </div>
                
             </div>
