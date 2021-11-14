@@ -30,11 +30,11 @@ const Contact = () => {
             </div>
             <div className={styles.linkedin__class}>
                 <a href="https://www.linkedin.com/in/sarveshkumarsharma-sks/" target="_blank" rel="noopener noreferrer">
-                   <SiLinkedin className="lgicons" />
+                   <SiLinkedin className={styles.lgicons} />
                     {/* <img src="https://sudhirportfolio.netlify.app/assets/img/Social/facebook.png" alt="likedin"/> */}
                 </a>
                 <a href="https://github.com/SARVESHSHARMA-SKS" target="_blank" rel="noopener noreferrer">
-                    <FaGithub className="lgicons" />
+                    <FaGithub className={styles.lgicons} />
                     {/* <img src="https://sudhirportfolio.netlify.app/assets/img/Social/github.png" alt="github"/> */}
                 </a>
             </div>
