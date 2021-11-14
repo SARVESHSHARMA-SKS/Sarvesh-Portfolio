@@ -32,14 +32,19 @@
     /* border:1px solid black; */
      justify-content: space-evenly; 
      flex-wrap: nowrap; 
-     @media screen only screen and (max-width:600px){
-         flex-direction: column; 
-         justify-content: space-between; 
-         width:25vw; 
-     } 
+    
 
 
 }
+ @media screen and (max-width:300px){
+     .linkedin__class{
+
+         flex-direction: column; 
+         justify-content: space-between; 
+         width:25vw; 
+     }
+
+     } 
 .outer__div button{
     padding: 1vh;
     border-radius: 5px;
@@ -107,8 +112,12 @@ height:20px;
 }
 @media screen and (max-width:600px){
  .lgicons{
-    width:8vw;
-    height:8.5vh;
+     display:flex;
+     justify-content: space-between;
+    width:4vw;
+    /* border: 1px solid black; */
+    height:4.5vh;
+
 }   
     
 } 
