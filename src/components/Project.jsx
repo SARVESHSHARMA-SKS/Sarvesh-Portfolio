@@ -38,13 +38,13 @@ Tech Stack: HTML | CSS | Javascript | Node |
                  Project Duration : 2 Weeks
                 </p>
               
-               <a href="https://blooming-bastion-29120.herokuapp.com/pages/index.ejs" target="_blank" rel="noopener noreferrer">
+               <a href="https://github.com/SrikanthReddyBV/Internshala.git" target="_blank" rel="noopener noreferrer">
                 
               <button>Github</button>
                 </a>
                
                 
-                <a  href="https://drive.google.com/file/d/1NcgNpv6BcunAgagWgEJhVActhN_1mbq3/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a  href= "https://blooming-bastion-29120.herokuapp.com/pages/index.ejs" target="_blank" rel="noopener noreferrer">
                     
                         <button>Demo</button></a>
                      <a href="https://medium.com/@vs9425348?p=e8bfcdbac6cc" target="_blank" rel="noopener noreferrer">
