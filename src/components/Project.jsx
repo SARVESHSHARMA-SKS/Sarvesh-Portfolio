@@ -74,7 +74,7 @@ Tech Stack: HTML | CSS | Javascript | Node |
                          <br/>
                          Project Duration : 5 Days
                     </p>
-                <a href="https://github.com/nitish14920/MakeMyTrip" target="_blank" rel="noopener noreferrer" >
+                <a href="https://mmtclone.vercel.app/" target="_blank" rel="noopener noreferrer" >
                   <button>Github</button>
                 </a>
                 <a href="https://drive.google.com/file/d/1U6Hn-rWwWbHca7zUFDRY4askWe4r79JR/view?usp=sharing" target="_blank" rel="noopener noreferrer">
